@@ -1,4 +1,4 @@
-Parts used in this build:
+#Parts used in this build:
 Mityvac MVA5506   $16.02   this is a compression hose with a quick connect air fitting on one end, and M14x1.25 spark plug thread adapter.
 Pressure Transducer Sender 0-200psi 0-5v, 0.5-4.5v usable range, $11.33
 I also bought another pressure sensor, for higher compression engines that will test above the pressure range of the 200psisensor: 
